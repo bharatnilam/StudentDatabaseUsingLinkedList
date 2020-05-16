@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543684532 source:d:\desktop\project\sdll\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
+1543684532 source:d:\desktop\dsa mini project\project\sdll\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
